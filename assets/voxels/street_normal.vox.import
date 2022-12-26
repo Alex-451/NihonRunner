@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/street_normal.vox-642bbea2c6db625eaecec43d9841cbd2.mesh"
+
+[deps]
+
+source_file="res://assets/voxels/street_normal.vox"
+dest_files=[ "res://.import/street_normal.vox-642bbea2c6db625eaecec43d9841cbd2.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
